@@ -1,0 +1,10 @@
+specification: API Commons Plans
+specificationVersion: '0.1'
+provider: UPM YODA Open Data Portal
+providerId: portal-yoda-dit-upm-es
+created: '2026-06-07'
+modified: '2026-06-07'
+reconciled: false
+maintainers:
+- FN: Kin Lane
+  email: kin@apievangelist.com

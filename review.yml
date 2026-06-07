@@ -1,0 +1,11 @@
+name: UPM YODA Open Data Portal
+url: https://raw.githubusercontent.com/api-evangelist/portal-yoda-dit-upm-es/refs/heads/main/review.yml
+created: '2026-06-07'
+modified: '2026-06-07'
+reviews:
+  - date: '2026-06-07'
+    rating: 4
+    summary: Live CKAN API verified (v2.9.5), ~201 datasets.
+    endpoints:
+      - url: https://portal-yoda.dit.upm.es/api/3/action/status_show
+        status: 200
