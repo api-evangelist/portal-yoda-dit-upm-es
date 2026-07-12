@@ -40,6 +40,8 @@ apis:
       - type: x-ckan-version
         value: '2.9.5'
 common:
+  - type: DomainSecurity
+    url: security/portal-yoda-dit-upm-es-domain-security.yml
   - type: Website
     url: https://portal-yoda.dit.upm.es
   - type: Documentation
