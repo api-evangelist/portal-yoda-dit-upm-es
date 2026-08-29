@@ -4,6 +4,17 @@ description: >-
   UPM YODA Open Data Portal is a university open-data portal for Spain running CKAN.
   It exposes the CKAN catalog API over approximately 201 datasets.
 kind: institution
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
